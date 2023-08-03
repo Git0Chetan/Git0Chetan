@@ -20,12 +20,12 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/chet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chet" height="30" width="40" /></a>
-<a href="https://instagram.com/chet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chet" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/che" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="che" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/che" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="che" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/cge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="cge" height="30" width="40" /></a>
-<a href="https://discord.gg/CE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="CE" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/chetanpatil0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chet" height="30" width="40" /></a>
+<a href="https://www.instagram.com/chetan_patilll/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chet" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/chetan249581?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="che" height="30" width="40" /></a>
+<a href="https://leetcode.com/chetan_coding/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="che" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/chetan249581/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="cge" height="30" width="40" /></a>
+<a href="#disc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="CE" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
