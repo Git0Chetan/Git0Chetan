@@ -1,19 +1,19 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm CHETAN PATIL</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 <p align="center"><img src="animation.gif" width="500" alt="animation.gif"></p>
 
 
-- 🔭 I’m currently working on **OTT_PLATFORM**
+- 🔭 I’m currently working on  **Fitness Centre Project**
 
-- 🌱 I’m currently learning **REACT**
+- 🌱 I’m currently learning **New Emerging Technologies**
 
-- 🤝 I’m looking for help with **REACT**
+- 🤝 I’m looking for help with colaboration on a unique **Project**
 
 - 👨‍💻 All of my projects are available at [LINK](https://github.com/Git0Chetan/)
 
-- 💬 Ask me about **C++**
+- 💬 Ask me about **C++ , Backend ,Templates ,mongodb , Embedded ,etc**
 
 - 📄 Know about my experiences
 
@@ -35,7 +35,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 
 # 💫 About Me:
-Enthusiastically seeking a fulfilling position within a prestigious organization,where I can fully utilize my skills, continuously enhance my knowledge, and genuinely contribute to the company's remarkable success.With a strong focus on front-end development and a solid foundation in C++, I am driven by a passion for learning and staying updated with the latest industry trends.<br>
+Enthusiastically seeking a fulfilling position within a prestigious organization,where I can fully utilize my skills, continuously enhance my knowledge, and genuinely contribute to the company's remarkable success.With a strong focus on full stack development and a solid foundation in C++, I am driven by a passion for learning and staying updated with the latest industry trends.<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
