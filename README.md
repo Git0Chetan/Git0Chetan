@@ -13,6 +13,9 @@
 
 - 👨‍💻 All of my projects are available at [LINK](https://github.com/Git0Chetan/)
 
+- 💬 Happy to Connect for IOT based Projects
+
+
 - 💬 Ask me about **C++ , Backend ,Templates ,mongodb , Embedded ,etc**
 
 - 📄 Know about my experiences
